@@ -48,7 +48,6 @@ const skillCategories = [
     skills: [
       "Data Structures",
       "Algorithms",
-      "C++",
       "Competitive Programming",
       "Problem Solving",
     ],
